@@ -63,7 +63,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x00168b61)</Value>
+					<Value>(0x00000000, 0x001882ac)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -126,7 +126,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x003b9280)</Value>
+					<Value>(0x00000000, 0x003dab5f)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -169,7 +169,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x0017ebad)</Value>
+					<Value>(0x00000000, 0x001b328c)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -227,7 +227,7 @@
 			<Attributes>
 				<Attribute>
 					<Identifier>(0x1fa7a38f, 0x54edbe0b)</Identifier>
-					<Value>448.000000</Value>
+					<Value>449.000000</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
@@ -247,7 +247,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x07e2d623)</Value>
+					<Value>(0x00000000, 0x0e44fa04)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -334,7 +334,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x005974ed)</Value>
+					<Value>(0x00000000, 0x005c4649)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -419,7 +419,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x00aa0021)</Value>
+					<Value>(0x00000000, 0x00b30b4f)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -483,7 +483,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x002eba23)</Value>
+					<Value>(0x00000000, 0x00317ad3)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -551,7 +551,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x0065c6f7)</Value>
+					<Value>(0x00000000, 0x00699429)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -624,7 +624,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x06e5abc3)</Value>
+					<Value>(0x00000000, 0x0990f2fd)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -670,7 +670,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x00079a29)</Value>
+					<Value>(0x00000000, 0x0008c825)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -744,7 +744,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x004241c3)</Value>
+					<Value>(0x00000000, 0x004a0e3a)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -820,7 +820,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x003f705a)</Value>
+					<Value>(0x00000000, 0x00449dc0)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -950,7 +950,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x004e724e)</Value>
+					<Value>(0x00000000, 0x00d0fe8c)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc73e83ec, 0xf855c5bc)</Identifier>
@@ -1049,7 +1049,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
-					<Value>(0x00000000, 0x005c67d5)</Value>
+					<Value>(0x00000000, 0x0060136b)</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
@@ -1250,7 +1250,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>429</Value>
+					<Value>430</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
@@ -1366,7 +1366,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>429</Value>
+					<Value>430</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
@@ -1475,20 +1475,6 @@
 				<Attribute>
 					<Identifier>(0x7234b86b, 0x2b8651a5)</Identifier>
 					<Value>-32.000000</Value>
-				</Attribute>
-			</Attributes>
-		</Comment>
-		<Comment>
-			<Identifier>(0x4de3a357, 0x1b13df95)</Identifier>
-			<Text>You can browse each box' documentation by selecting the box and pressing &lt;b&gt;F1&lt;/b&gt;</Text>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x473d9a43, 0x97fc0a97)</Identifier>
-					<Value>544.000000</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x7234b86b, 0x2b8651a5)</Identifier>
-					<Value>544.000000</Value>
 				</Attribute>
 			</Attributes>
 		</Comment>
